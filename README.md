@@ -1,4 +1,4 @@
-### Hi there 👋
+  👋
 
 <!--
 **vindex10xsh7d/vindex10xsh7d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ⚡ The past passed by, The future is not comeing yet, whatever it going to be, All we have is , is this,the present.
